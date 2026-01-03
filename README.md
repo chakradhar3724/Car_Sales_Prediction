@@ -17,7 +17,7 @@ It focuses on analyzing, cleaning, and modeling car sales data using **Apache Sp
 
 ## 🧠 Project Overview
 
-The objective of this project is to:
+The main objective of this project is to:
 - Perform large-scale data preprocessing using PySpark
 - Conduct exploratory data analysis (EDA)
 - Build machine learning models for:
