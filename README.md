@@ -121,3 +121,14 @@ EDA was conducted using PySpark and Pandas to:
 2. Install dependencies:
    ```bash
    pip install pyspark
+   ```
+
+---
+
+## 👤 Author 
+
+**Chakradhar Peddavenkatagari** 
+
+Masters in Computer Science
+
+The State University of New York at Buffalo 
