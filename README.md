@@ -6,13 +6,13 @@ It focuses on analyzing, cleaning, and modeling car sales data using **Apache Sp
 ---
 
 ## 📁 Project Structure
-
+```
 📁 Car_Sales_Prediction  
 ├─ Car_Sales_Prediction.ipynb  
 ├─ car_sales_data.csv  
 ├─ requirements.txt  
 └─ README.md
-
+```
 ---
 
 ## 🧠 Project Overview
